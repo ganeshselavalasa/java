@@ -1,0 +1,13 @@
+import java.io.*;
+public class Main{
+    public static void main(String arge[]){
+        String str="ganesh";
+        System.out.printf("/n The string value is:%s",str);
+        int x=512;
+        System.out.printf("/n The integer value is:%i\n",x);
+        double d=5.2467;
+        System.out.printf("/n The double value is:%f\n",f);
+        System.out.printf("/n After formating to specific with the value is:%0.41f\n",f);
+        System.out.printf("After formating to right margin the value is:%10.2\f\n",f);
+    }
+}
